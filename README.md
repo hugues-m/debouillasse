@@ -1,5 +1,7 @@
 # À bas la bouillasse
 
+[![Installations skills.sh](https://skills.sh/b/hugues-m/debouillasse)](https://skills.sh/hugues-m/debouillasse)
+
 Personne n’a envie de lire votre bouillasse.
 
 Débouillasse est une compétence d'agent consacrée à la dé-bouillassification du français. Elle repère la prose vague, gonflée ou trop bien rangée, puis la réécrit sans inventer de faits ni effacer la voix de l'auteur.
