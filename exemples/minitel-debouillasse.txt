@@ -1,0 +1,15 @@
+Le Minitel, avant le Web
+
+Dans les années 1970, la Direction générale des télécommunications travaille sur la télématique, qui associe alors le téléphone et l’informatique. Elle veut notamment proposer un annuaire électronique et des services consultables depuis le domicile. Deux expérimentations préparent le terrain : un annuaire à Saint-Malo et un essai de vidéotex à Vélizy.
+
+Le Minitel est lancé en 1982. Le terminal comprend un écran et un clavier, se branche sur la ligne téléphonique et utilise notamment le réseau Transpac. Il est mis gratuitement à la disposition des foyers. Son affichage est sommaire, mais il donne accès à des services en ligne sans exiger l’achat d’un ordinateur.
+
+L’annuaire électronique fait partie des premiers usages. Puis l’ouverture du 3615, en 1984, accélère le développement du réseau. Les utilisateurs peuvent consulter des informations, commander des produits par correspondance, effectuer certaines opérations bancaires, réserver des billets de train ou rejoindre des messageries. Le coût des connexions apparaît sur la facture téléphonique.
+
+Les usages dépassent vite ceux qui avaient été prévus. Les messageries servent à discuter avec des inconnus, à former des communautés et à nouer des relations. Des associations diffusent leurs propres informations. Pour des personnes sourdes ou malentendantes, l’écrit en temps réel permet aussi d’échanger à distance avec leurs proches. Le Minitel n’est donc pas seulement un annuaire : il devient à la fois boutique, guichet et lieu de conversation.
+
+Au début des années 1990, 6,5 millions de foyers français sont équipés. Entreprises, administrations et commerçants publient leurs services sur le réseau. Beaucoup de Français découvrent ainsi la consultation à distance avant d’utiliser un navigateur web.
+
+L’arrivée du Web, dans les années 1990, rend peu à peu le système moins attrayant. Internet propose des pages illustrées, une ouverture internationale et une navigation qui ne dépend pas d’un réseau de services national. Le Minitel reste surtout textuel et son affichage est lent. Il ne disparaît pourtant pas tout de suite : des utilisateurs et des éditeurs continuent de s’en servir pendant plusieurs années.
+
+Le service ferme à la fin de juin 2012, après trente ans de fonctionnement. Le Minitel n’était pas Internet et ne contenait pas à lui seul tous les usages numériques futurs. Il avait toutefois habitué des millions de personnes à chercher une information, accomplir une démarche, acheter ou discuter à travers un écran connecté.
