@@ -2,18 +2,18 @@
 
 [![Installations skills.sh](https://skills.sh/b/hugues-m/debouillasse)](https://skills.sh/hugues-m/debouillasse)
 
-Personne n’a envie de lire votre bouillasse.
+Personne n’a envie de lire ta bouillasse.
 
-Débouillasse est une compétence d'agent consacrée à la dé-bouillassification du français. Elle repère la prose vague, gonflée ou trop bien rangée, puis la réécrit sans inventer de faits ni effacer la voix de l'auteur.
+Débouillasse est une compétence d'agent consacrée à la dé-bouillassification du français. Elle repère la prose artificielle, vague, pénible, puis la réécrit sans inventer d'informations ni effacer la voix de l'auteur.
 
-Elle sert à rédiger, traduire vers le français, réviser ou auditer un texte. Une source peut être écrite dans une autre langue, mais la compétence ne produit et ne révise que du français.
+Elle sert à rédiger, traduire vers le français, réviser un texte... La compétence ne produit et ne révise que du français.
 
 ## Installation
 
 Pour installer Débouillasse dans Codex, Claude Code et Cursor, pour tous vos projets (Node.js 22.20 au minimum) :
 
 ```bash
-npx skills@latest add hugues-m/debouillasse \
+npx skills add hugues-m/debouillasse \
   --skill debouillasse \
   --agent claude-code \
   --agent codex \
@@ -25,13 +25,13 @@ npx skills@latest add hugues-m/debouillasse \
 Pour choisir interactivement les agents et la portée de l'installation :
 
 ```bash
-npx skills@latest add hugues-m/debouillasse
+npx skills add hugues-m/debouillasse
 ```
 
 Pour mettre à jour une installation globale :
 
 ```bash
-npx skills@latest update --global debouillasse
+npx skills update --global debouillasse
 ```
 
 Cette installation repose sur le [format ouvert Agent Skills](https://agentskills.io/specification) et l'[outil d'installation de Vercel Labs](https://github.com/vercel-labs/skills).
